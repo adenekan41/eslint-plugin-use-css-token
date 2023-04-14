@@ -1,0 +1,6 @@
+*.log
+*.json
+*.md
+.eslint*
+node_modules/
+src/*.test*
